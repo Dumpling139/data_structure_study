@@ -1,0 +1,5 @@
+﻿  LTNode.c
+  test.c
+C:\Users\16209\source\repos\DList\DList\test.c(24,30): warning C4020: “LTErase”: 实参太多
+  正在生成代码...
+  DList.vcxproj -> C:\Users\16209\source\repos\DList\x64\Debug\DList.exe

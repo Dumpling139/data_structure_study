@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\16209\source\repos\study_2_12\study_2_12\test.c(51,11): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  study_2_12.vcxproj -> C:\Users\16209\source\repos\study_2_12\x64\Debug\study_2_12.exe

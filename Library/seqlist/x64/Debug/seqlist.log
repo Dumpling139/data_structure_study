@@ -1,0 +1,6 @@
+﻿  contact.c
+  test.c
+  正在生成代码...
+D:\study\code\c_study_10_10\Library\seqlist\contact.c(114,35): warning C4305: “*=”: 从“double”到“float”截断
+D:\study\code\c_study_10_10\Library\seqlist\contact.c(118,35): warning C4305: “*=”: 从“double”到“float”截断
+  seqlist.vcxproj -> D:\study\code\c_study_10_10\Library\x64\Debug\seqlist.exe

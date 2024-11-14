@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\16209\source\repos\hui_wen\hui_wen\test.c(7,6): warning C4047: “初始化”:“int”与“char [6]”的间接级别不同
+C:\Users\16209\source\repos\hui_wen\hui_wen\test.c(7,6): warning C4047: “初始化”:“int”与“char [8]”的间接级别不同
+C:\Users\16209\source\repos\hui_wen\hui_wen\test.c(7,6): warning C4047: “初始化”:“int”与“char [10]”的间接级别不同
+  hui_wen.vcxproj -> C:\Users\16209\source\repos\hui_wen\x64\Debug\hui_wen.exe

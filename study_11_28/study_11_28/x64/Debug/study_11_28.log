@@ -1,0 +1,3 @@
+﻿  test.c
+D:\study\code\c_study_10_10\study_11_28\study_11_28\test.c(8,11): warning C4047: “==”:“int (*)[10]”与“int [10]”的间接级别不同
+  study_11_28.vcxproj -> D:\study\code\c_study_10_10\study_11_28\x64\Debug\study_11_28.exe

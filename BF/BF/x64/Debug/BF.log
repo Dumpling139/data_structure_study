@@ -1,0 +1,4 @@
+﻿  test.c
+D:\study\code\c_study_10_10\BF\BF\test.c(58,34): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\code\c_study_10_10\BF\BF\test.c(47,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  BF.vcxproj -> D:\study\code\c_study_10_10\BF\x64\Debug\BF.exe

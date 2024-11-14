@@ -1,0 +1,4 @@
+﻿  test.c
+D:\study\code\c_study_10_10\study_12_14\study_12_14\test.c(147,4): warning C4048: “int (*)[4]”和“int (*)[5]”数组的下标不同
+D:\study\code\c_study_10_10\study_12_14\study_12_14\test.c(148,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  study_12_14.vcxproj -> D:\study\code\c_study_10_10\study_12_14\Debug\study_12_14.exe

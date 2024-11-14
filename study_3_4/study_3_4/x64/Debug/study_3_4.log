@@ -1,0 +1,8 @@
+﻿  test.c
+C:\Users\16209\source\repos\study_3_4\study_3_4\test.c(588,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  C:\Users\16209\source\repos\study_3_4\study_3_4\test.c(588,10):
+  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  C:\Users\16209\source\repos\study_3_4\study_3_4\test.c(588,10):
+  缺失的可变参数 2 为格式字符串“%ld”所需
+  
+  study_3_4.vcxproj -> C:\Users\16209\source\repos\study_3_4\x64\Debug\study_3_4.exe

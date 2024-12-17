@@ -70,7 +70,7 @@ void DestoryStack2(FloatNode* ST)
 //
 void StackPop2(FloatNode* ST)
 {
-	assert(!StackEmpty(ST));
+	assert(!StackEmpty2(ST));
 	ST->top--;
 }
 void StackPush2(FloatNode* ST, StackType2 tmp)
@@ -92,7 +92,7 @@ void StackPush2(FloatNode* ST, StackType2 tmp)
 StackType2 StackTop2(FloatNode* ST)
 {
 	assert(ST);
-	assert(!StackEmpty(ST));
+	assert(!StackEmpty2(ST));
 	return ST->val[ST->top - 1];
 }
 int StackSize2(FloatNode* ST)

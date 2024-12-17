@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|solutionrelative:Stack_List\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\StackList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|solutionrelative:Stack_List\\StackList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\count.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|solutionrelative:Stack_List\\count.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\count.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|solutionrelative:Stack_List\\count.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\StackList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5B1B45-0517-4E7C-BB35-AE21D4A2BF9B}|Stack_List\\Stack_List.vcxproj|solutionrelative:Stack_List\\StackList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "count.c",
+              "DocumentMoniker": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\count.c",
+              "RelativeDocumentMoniker": "Stack_List\\count.c",
+              "ToolTip": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\count.c",
+              "RelativeToolTip": "Stack_List\\count.c",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-19T07:07:27.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StackList.h",
+              "DocumentMoniker": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\StackList.h",
+              "RelativeDocumentMoniker": "Stack_List\\StackList.h",
+              "ToolTip": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\StackList.h",
+              "RelativeToolTip": "Stack_List\\StackList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T07:07:27.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "count.h",
+              "DocumentMoniker": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\count.h",
+              "RelativeDocumentMoniker": "Stack_List\\count.h",
+              "ToolTip": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\count.h",
+              "RelativeToolTip": "Stack_List\\count.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T07:07:27.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\test.c",
+              "RelativeDocumentMoniker": "Stack_List\\test.c",
+              "ToolTip": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\test.c",
+              "RelativeToolTip": "Stack_List\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-19T07:07:27.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackList.c",
+              "DocumentMoniker": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\StackList.c",
+              "RelativeDocumentMoniker": "Stack_List\\StackList.c",
+              "ToolTip": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\count\\Stack_List\\StackList.c",
+              "RelativeToolTip": "Stack_List\\StackList.c",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAF4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-19T07:07:27.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

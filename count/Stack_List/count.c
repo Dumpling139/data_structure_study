@@ -129,7 +129,7 @@ float lag_count(FloatNode* numnode, CharNode* symnode)
 	if (!StackEmpty(symnode))
 	{
 		printf("输入错误，请检查格式");
-		exit;
+		exit(1);
 	}
 	return sum;
 }

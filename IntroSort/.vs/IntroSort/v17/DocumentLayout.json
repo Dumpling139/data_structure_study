@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\IntroSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{107FB97D-2271-4672-A7AA-4208111DA7D2}|IntroSort\\IntroSort.vcxproj|D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\IntroSort\\IntroSort\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{107FB97D-2271-4672-A7AA-4208111DA7D2}|IntroSort\\IntroSort.vcxproj|solutionrelative:IntroSort\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\IntroSort\\IntroSort\\test.c",
+              "RelativeDocumentMoniker": "IntroSort\\test.c",
+              "ToolTip": "D:\\study\\code\\DS_study\\data_-structure_-study_github\\data_structure_study\\IntroSort\\IntroSort\\test.c",
+              "RelativeToolTip": "IntroSort\\test.c",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-21T03:07:48.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
